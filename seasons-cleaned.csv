@@ -1,0 +1,1225 @@
+year,team,wlBinary,games,wins
+1968,Seattle SuperSonics,509b00840e31908800024204,82,23
+1968,Chicago Bulls,93ad02003200abc100029507,82,29
+1968,St. Louis Hawks,bd31ff7f673f7d5900027db1,82,56
+1968,Los Angeles Lakers,0f995a793df5f0750002f77f,82,52
+1968,Cincinnati Royals,9e03a0cee4147e960001d3c1,82,39
+1968,San Francisco Warriors,abfd6fd18dc4567c00001231,82,43
+1968,New York Knicks,82527781ddad3f030003b15e,82,43
+1968,San Diego Rockets,b4030104000112c400000004,82,15
+1968,Boston Celtics,fed9dbbfbdba5eb00000f1bc,82,54
+1968,Detroit Pistons,2bd937a983118b3200033fa0,82,40
+1968,Philadelphia 76ers,ded65bdffbf7337f0002ef7e,82,62
+1968,Baltimore Bullets,e40ad40d5d1bc06200010e57,82,36
+1969,Chicago Bulls,31c250a344225af1000025d6,82,33
+1969,Cincinnati Royals,1fa957e752b490a9000349c1,82,41
+1969,Detroit Pistons,900c93b82431bc8a00038311,82,32
+1969,Seattle SuperSonics,6f86113096b8220000000f49,82,30
+1969,Boston Celtics,c5f5becfe60b1bec0003c62a,82,48
+1969,Los Angeles Lakers,eae5ff72bc7ce66f00037778,82,55
+1969,San Diego Rockets,0ad690e313ad819200017d49,82,37
+1969,Milwaukee Bucks,3010a4a0c90136060003420f,82,27
+1969,Philadelphia 76ers,3f7dbf93dad2f55e0001e677,82,55
+1969,San Francisco Warriors,2096b30ed64f519c00017733,82,41
+1969,Baltimore Bullets,fedddf9ddefa3ecb0000be1b,82,57
+1969,Phoenix Suns,904002692072040000000440,82,16
+1969,New York Knicks,d7b9046cffcbf7fe0001eaf1,82,54
+1969,Atlanta Hawks,f8ce2c96cd877d7f00006b9c,82,48
+1970,Seattle SuperSonics,1c90554073b1c8470001a3f8,82,36
+1970,Chicago Bulls,68e994ecc422f90400027e35,82,39
+1970,New York Knicks,2effffdfdbfedcee00002af9,82,60
+1970,San Diego Rockets,c446bc0256080e0b0000e008,82,27
+1970,Cincinnati Royals,9a4e362281340ef200026533,82,36
+1970,Los Angeles Lakers,4303e87cb47fd2ed00037ad4,82,46
+1970,Phoenix Suns,73c066a13e56b0c80003d394,82,39
+1970,Boston Celtics,8e64c070cb98587600024449,82,34
+1970,Philadelphia 76ers,f73c1097861ba3d200028d75,82,42
+1970,Detroit Pistons,0b52494a944d390200001a35,82,31
+1970,San Francisco Warriors,316d81ae096221a300009202,82,30
+1970,Milwaukee Bucks,e76569a776ef7def00019ded,82,56
+1970,Atlanta Hawks,adc67fcb9c2c1cec0003f62e,82,48
+1970,Baltimore Bullets,e8bfee2b9daabc8d00036d2d,82,50
+1971,San Diego Rockets,5bb68a78d02006710003f8bb,82,40
+1971,Boston Celtics,5ffa1f68dc892da20003c962,82,44
+1971,Cleveland Cavaliers,1000800006d203100000a210,82,15
+1971,New York Knicks,cfce5fdb037d0bbd0001cded,82,52
+1971,Chicago Bulls,bf15ad79d3f3999300012edf,82,51
+1971,Detroit Pistons,ae581dff29a3eeed00028834,82,45
+1971,Los Angeles Lakers,67593be973f5eb0e0002247b,82,48
+1971,Milwaukee Bucks,daf3fffdff5dbff700008fff,82,66
+1971,Philadelphia 76ers,250db4af35776b7e00029e56,82,47
+1971,San Francisco Warriors,61b75e26a3e3c28f0001b450,82,41
+1971,Phoenix Suns,3db1de31b5f3cec500019177,82,48
+1971,Baltimore Bullets,3caec99b931753f50001430a,82,42
+1971,Atlanta Hawks,f10314427cc581820001dfaa,82,36
+1971,Cincinnati Royals,4e3650e0809490e700007d84,82,33
+1971,Portland Trail Blazers,811905451f046c810003e802,82,29
+1971,Seattle SuperSonics,2585cb0ea11671e800026d8d,82,38
+1971,Buffalo Braves,4124cc01c070880500002c04,82,22
+1972,Seattle SuperSonics,aead55ebfd58fd0c0000117d,82,47
+1972,Philadelphia 76ers,14b0156f60254d880000214c,82,30
+1972,Atlanta Hawks,c1c0a0d0384b48d50003f52d,82,36
+1972,Detroit Pistons,2283131d18c08a4c0000a401,82,26
+1972,Milwaukee Bucks,fef3ff7feefdcf530003cdbc,82,63
+1972,Golden State Warriors,818e77d9b65effe20002a9fb,82,51
+1972,Baltimore Bullets,2231e9427403d1fa00021df2,82,38
+1972,Buffalo Braves,0ac4b9428242090000002a10,82,22
+1972,Los Angeles Lakers,fffffe6f76ff2bff00037fbe,82,69
+1972,Cleveland Cavaliers,487c2822802400780000444a,82,23
+1972,Houston Rockets,70b402409d26514f0003868b,82,34
+1972,New York Knicks,ed3f855c7eedd06f00014ca5,82,48
+1972,Boston Celtics,e74c8fde5ff3e67f0003bcf8,82,56
+1972,Chicago Bulls,cd77f1be9f9be75f0003735d,82,57
+1972,Cincinnati Royals,06094d81c02c5e000002d3c3,82,30
+1972,Phoenix Suns,73fc3332fec7337a0002bb43,82,49
+1972,Portland Trail Blazers,4a808048190071010000c400,82,18
+1973,Atlanta Hawks,cf895cc5f39d8c570000b4fc,82,46
+1973,Philadelphia 76ers,04408000c00002000000001a,82,9
+1973,Baltimore Bullets,7bad945397cf7f670000eead,82,52
+1973,Seattle SuperSonics,a10e00a684c3458000001ac4,82,26
+1973,Boston Celtics,5ff77bffff5a7fed0003fdfe,82,68
+1973,Los Angeles Lakers,dfbffef91e7ff71a0002ebba,82,60
+1973,Houston Rockets,b22c05cba18d801300036185,82,33
+1973,Chicago Bulls,96e7b7e9fcf3237c0002339b,82,51
+1973,Buffalo Braves,5688040a420c362800000060,82,21
+1973,Milwaukee Bucks,f4fc9dfb6b55fe370003fff3,82,60
+1973,Detroit Pistons,c7719292e1f911240003e653,82,40
+1973,Phoenix Suns,98c41f0e8726173700036425,82,38
+1973,New York Knicks,36ef77fbd679ffdd0000771a,82,57
+1973,Portland Trail Blazers,200c7004250a028900018c08,82,21
+1973,Golden State Warriors,dd32e7eec6d0b2fe000093a9,82,47
+1973,Cleveland Cavaliers,02390e80b0c57b4800009fa0,82,32
+1973,Kansas City-Omaha Kings,c2cfbc4ab71590150000c2c0,82,36
+1974,Capital Bullets,f59b2fd03eac34f1000363b5,82,47
+1974,Houston Rockets,0d70808e9f06c1900002078e,82,32
+1974,Los Angeles Lakers,827bc9edc42e73a60001e6df,82,47
+1974,Detroit Pistons,bf8b2f6aa7f7dba600027ac3,82,52
+1974,Chicago Bulls,7eb67ffab7fe256900036996,82,54
+1974,Seattle SuperSonics,40d85046e32ced360003512a,82,36
+1974,Buffalo Braves,d23903d167915fd1000056e7,82,42
+1974,Atlanta Hawks,e0e157638b44a09a0000e930,82,35
+1974,Milwaukee Bucks,dff8fffbd5a5fd9c0003b4f5,82,59
+1974,Kansas City-Omaha Kings,1800c08e0c358adb0001bc27,82,33
+1974,Boston Celtics,f777ffa73d59b3670000eee9,82,56
+1974,Golden State Warriors,019bdb3af6a7fad100010659,82,44
+1974,Philadelphia 76ers,a0a68c240b40468000028252,82,25
+1974,New York Knicks,fb07cb8d5cde39f4000249ef,82,49
+1974,Cleveland Cavaliers,49d83090a02a601c00016c70,82,29
+1974,Phoenix Suns,ce68c009382d889c0001a120,82,30
+1974,Portland Trail Blazers,6082a7270208032d00022628,82,27
+1975,New Orleans Jazz,02020800a7ec806000005455,82,23
+1975,Seattle SuperSonics,83a28f5c2e87c2390003f9b9,82,43
+1975,Buffalo Braves,1e8bff9d5c737f5100013e1a,82,49
+1975,Atlanta Hawks,29b4652610c2689400005236,82,31
+1975,Golden State Warriors,b4bd5dfa9d14387d0001beb2,82,48
+1975,Houston Rockets,f9017af1d8f3b0130001c20f,82,41
+1975,Cleveland Cavaliers,569ed3b81afb00c500012bb0,82,40
+1975,Detroit Pistons,5471678b010b7b7e00013c45,82,40
+1975,Boston Celtics,75ea9baab9b7ff7f0003bf7d,82,60
+1975,Milwaukee Bucks,b1bdc004c158a7af0001d055,82,38
+1975,Philadelphia 76ers,16a1230ba2d590ab000004f3,82,34
+1975,Kansas City-Omaha Kings,5a1ea13b3f7e541e000245c7,82,44
+1975,Portland Trail Blazers,7039e8a5e0a0d17000038ec7,82,38
+1975,Washington Bullets,adfb1d7ffbd9fdc700037737,82,60
+1975,Chicago Bulls,5f26d3831fefb9ec00034552,82,47
+1975,New York Knicks,11f9f35546094a2d000269bc,82,40
+1975,Phoenix Suns,ad948e259e0bcac000008c00,82,32
+1975,Los Angeles Lakers,86954859204448a30000336c,82,30
+1976,New Orleans Jazz,ad02207e8302f86f0003265d,82,38
+1976,Golden State Warriors,cffdabf5b7766b7d0001bef5,82,59
+1976,Los Angeles Lakers,85dbbd35717288430000c65c,82,40
+1976,Kansas City Kings,00317498a58370ca0000a0cb,82,31
+1976,Houston Rockets,554be338aa63ae8c00030636,82,40
+1976,Philadelphia 76ers,a67ede73a83c1a750001d91d,82,46
+1976,Detroit Pistons,94017cce12e150c10000efe1,82,36
+1976,Portland Trail Blazers,4242c3d07443fb45000169d1,82,37
+1976,Chicago Bulls,25024016c0c51a1a00022014,82,24
+1976,Cleveland Cavaliers,dfc6a464a5febe710001e735,82,49
+1976,Phoenix Suns,42775cc95d65e240000317f5,82,42
+1976,New York Knicks,d8845832a5b07e6f00027222,82,38
+1976,Seattle SuperSonics,9713f20b4ff102760002e778,82,43
+1976,Milwaukee Bucks,aa1e13e03cd4446900017d2a,82,38
+1976,Buffalo Braves,bda81b4fc535bf56000369a4,82,46
+1976,Boston Celtics,5bfedc57b3a4feeb00021d7e,82,54
+1976,Washington Bullets,ce4d84ddf6f339d700018c3d,82,48
+1976,Atlanta Hawks,32b2cde9a09150e100010000,82,29
+1977,Houston Rockets,2d47f99bfb369ce10000e2ef,82,49
+1977,Boston Celtics,2d2e9b0fcdbc869800039af2,82,44
+1977,Buffalo Braves,943207c343ca41050000910e,82,30
+1977,Los Angeles Lakers,7d8f74b29cb1def70002bfb3,82,53
+1977,Chicago Bulls,877b0006fcd2a4da000373fd,82,44
+1977,New York Nets,224d5189250b880000004002,82,22
+1977,Denver Nuggets,bae966ff9de4adf300016e48,82,50
+1977,Detroit Pistons,bdc37f053b5b365a0001850e,82,44
+1977,Phoenix Suns,2c2eb9480046b6e80002d628,82,34
+1977,San Antonio Spurs,c70abf09f375b61b00008d8b,82,44
+1977,Philadelphia 76ers,2ae9773c92baa7f700012fbd,82,50
+1977,Indiana Pacers,0da9e078c29a41f900036211,82,36
+1977,Kansas City Kings,309b24ece58ddabc000008cf,82,40
+1977,Washington Bullets,d1d832e2deb5bfd70002e9e0,82,48
+1977,Milwaukee Bucks,e0200860bd0902b600038cf0,82,30
+1977,Seattle SuperSonics,064bd999125517ee00013176,82,40
+1977,Golden State Warriors,c6be2e1cf15e6b4b0003994d,82,46
+1977,New York Knicks,dda0b5879324c89100037a72,82,40
+1977,Portland Trail Blazers,6d7db8fb541733e90003f471,82,49
+1977,Atlanta Hawks,2b860686aada564000005086,82,31
+1977,Cleveland Cavaliers,1a0f9aff8d54aa2d0000ad3c,82,43
+1977,New Orleans Jazz,a49d996d060c1c0a00020fe8,82,35
+1978,Chicago Bulls,95fb46a7890d2f820000e561,82,40
+1978,New Jersey Nets,36040210a8b8000500005ae2,82,24
+1978,Los Angeles Lakers,b5422d92ebdebe0700016ba6,82,45
+1978,Kansas City Kings,3c32156489fc128000000ce2,82,31
+1978,Golden State Warriors,6170c8ee891bc6d80001ddd7,82,43
+1978,Milwaukee Bucks,f2d3a2b53b60d38c00032de9,82,44
+1978,Seattle SuperSonics,efc431101ec5b7f30002f3bb,82,47
+1978,Detroit Pistons,7c4605395b30f907000306b2,82,38
+1978,Boston Celtics,0344ce0894c6f0b10002092e,82,32
+1978,Cleveland Cavaliers,3983cfea30f1c7080003f71c,82,43
+1978,Indiana Pacers,dae1381c29200864000140db,82,31
+1978,San Antonio Spurs,89ccfa69e69dfef50000fdda,82,52
+1978,Houston Rockets,d05c08bc1353848200025400,82,28
+1978,New Orleans Jazz,4407c0be6c03ff19000381b5,82,39
+1978,Portland Trail Blazers,dfdfebf76fdbf9df00031061,82,58
+1978,Denver Nuggets,83e9fd33b366b1ff0000f50c,82,48
+1978,Washington Bullets,e36fbd51f6a4305c0002c9e2,82,44
+1978,Phoenix Suns,abf1be47418efbf500023e87,82,49
+1978,Atlanta Hawks,4e0961fdb2a5a4c20002fa1b,82,41
+1978,Buffalo Braves,0a2aaac3d413002a0000800b,82,27
+1978,New York Knicks,96c659d3be98b8370003b484,82,43
+1978,Philadelphia 76ers,b0dffbc5d1faeaff000143bf,82,55
+1979,Cleveland Cavaliers,ae18040fab88707600002402,82,30
+1979,San Antonio Spurs,fccc54cef744cf7b0002e90e,82,48
+1979,New Jersey Nets,1b31d7c3373c1b2800010a82,82,37
+1979,Atlanta Hawks,4c35dccaf8b47e550003c70f,82,46
+1979,Houston Rockets,6bca2a3764bc2dd70003ab3d,82,47
+1979,Los Angeles Lakers,4d47ffe8f47ccf5a00032960,82,47
+1979,San Diego Clippers,619c45a8fc3bc4ed000242fb,82,43
+1979,Chicago Bulls,57e988022518414c0003230e,82,31
+1979,New Orleans Jazz,10cc158cc0a688240000c940,82,26
+1979,Detroit Pistons,4298b4604f05e3020000812b,82,30
+1979,Milwaukee Bucks,8750a21a8f02ec9600023cee,82,38
+1979,Golden State Warriors,c5a32fc90e1881780003b466,82,38
+1979,Denver Nuggets,cf881aaf72cc6fd00001dfcd,82,47
+1979,Kansas City Kings,2ebbdab437bd8fb90003e0c8,82,48
+1979,Seattle SuperSonics,03d5bb7f44c3dedb0001b7f7,82,52
+1979,Boston Celtics,c9e2c084127b86410002010a,82,29
+1979,Portland Trail Blazers,f870ebe2d89f740800007ded,82,45
+1979,Phoenix Suns,4cbed6bb46cde16e0000ff3b,82,50
+1979,Washington Bullets,fb7fce0f3d2faf740000757b,82,54
+1979,Philadelphia 76ers,ef4937fd048e95a50002fbd1,82,47
+1979,New York Knicks,e117d29c40703138000002a5,82,31
+1979,Indiana Pacers,8199015513c7c2d800019f9e,82,38
+1980,New York Knicks,07360d56557c07d900008cb3,82,39
+1980,Houston Rockets,0ae2fe18a3e32f940003ac29,82,41
+1980,Indiana Pacers,ba51c5266a8f7a0c00019380,82,37
+1980,Milwaukee Bucks,05ace7fe3f4a27160002f79f,82,49
+1980,Cleveland Cavaliers,5ab83a14a822c0750002bfd0,82,37
+1980,Golden State Warriors,04128e9c2850484400008492,82,24
+1980,Utah Jazz,9e60005020e7046800004848,82,24
+1980,Los Angeles Lakers,eec6edf3fddbf3d50003efb9,82,60
+1980,Philadelphia 76ers,9ff45cffef9c7fde0002f277,82,59
+1980,Boston Celtics,fabf6fcffafedb6b0001cf4f,82,61
+1980,Chicago Bulls,392840514301c8a50001a693,82,30
+1980,Atlanta Hawks,d58afdd173f834db0000bb77,82,50
+1980,Washington Bullets,2aa27a94b98581790003389b,82,39
+1980,Detroit Pistons,1086104b0004e02000000009,82,16
+1980,Denver Nuggets,48b13580b392032c00002c92,82,30
+1980,Seattle SuperSonics,f77bdf2c9fe3fdba00036a5c,82,56
+1980,San Antonio Spurs,4c53c97a392f4ea500025ec0,82,41
+1980,New Jersey Nets,25c34a81ac4b43b1000142b8,82,34
+1980,San Diego Clippers,719c514a8503f33b00000664,82,35
+1980,Portland Trail Blazers,003999ffd0c85a2b0000ec64,82,38
+1980,Kansas City Kings,fb5f030db1daef270003189d,82,47
+1980,Phoenix Suns,c2f3d787aeedf47f0003bcfc,82,55
+1981,Cleveland Cavaliers,2554030c5837878a00000700,82,28
+1981,San Antonio Spurs,e5566bfd3be277ce00033c9e,82,52
+1981,Washington Bullets,8daa78214d3df418000360f2,82,39
+1981,Indiana Pacers,7766875ba668bf8c0001c364,82,44
+1981,Milwaukee Bucks,4ef75ff9abcdfbf50003e75f,82,60
+1981,Golden State Warriors,0713daaea2998cf60000943c,82,39
+1981,Houston Rockets,2563992ce36d98e80001e383,82,40
+1981,Los Angeles Lakers,f1aeb6dfdcfebca90000faea,82,54
+1981,Portland Trail Blazers,fc141432726cc9f70003dd9d,82,45
+1981,Chicago Bulls,a19a1c26157f02fe0003fd79,82,45
+1981,New Jersey Nets,0a84c836f825000200001580,82,24
+1981,San Diego Clippers,17602e21f849b03f00005652,82,36
+1981,Detroit Pistons,21b24880500a008200010d18,82,21
+1981,Utah Jazz,0223bf1510506e4800010904,82,28
+1981,Philadelphia 76ers,fbff7ffab7ddbf1f0001d1e6,82,62
+1981,Kansas City Kings,58934591f9ce1e930002c1e4,82,40
+1981,Seattle SuperSonics,2f16a63453d0258300020331,82,34
+1981,Boston Celtics,fddbf5d5b58fffbf0002d6df,82,62
+1981,Dallas Mavericks,400200418000c8200000b188,82,15
+1981,Phoenix Suns,67eeeff77e53d6fe000329e9,82,57
+1981,New York Knicks,ee58bdbb6ff1c4b300033f11,82,50
+1981,Denver Nuggets,10652e0cb4ce2a9800036e17,82,37
+1981,Atlanta Hawks,f91c008f7140405900004936,82,31
+1983,Boston Celtics,e97d7faf0ba67eef00026f9b,82,56
+1983,Dallas Mavericks,410e6a1d2789dbec0000c067,82,38
+1983,Atlanta Hawks,8c733874afc4d26b0002ad1e,82,43
+1983,Washington Bullets,59eb782a4e11ed00000175fe,82,42
+1983,Portland Trail Blazers,9bf23dd0447d4b77000386ba,82,46
+1983,Golden State Warriors,85ae8087a05453260002a880,82,30
+1983,Chicago Bulls,43180e981871450c000180c6,82,28
+1983,Philadelphia 76ers,feef77bff9ffbf7f000136ab,82,65
+1983,Phoenix Suns,6f5057dd9bd385eb0003f7ed,82,53
+1983,Houston Rockets,804124000101262000001024,82,14
+1983,San Antonio Spurs,8eebb47b6bb8e3a700039f9f,82,53
+1983,Utah Jazz,236985425a1005b200024e05,82,30
+1983,New York Knicks,72a8c380fdedf7240003d42b,82,44
+1983,New Jersey Nets,fd1f30d5cae6eb5f00022973,82,49
+1983,Milwaukee Bucks,bb67765bebbd4eed00017498,82,51
+1983,Detroit Pistons,0e43a9cf233127490000b634,82,37
+1983,Seattle SuperSonics,37c5cfffd274644000007faf,82,48
+1983,San Diego Clippers,48041480816cb62d00000158,82,25
+1983,Indiana Pacers,941a12d180041440000080a0,82,20
+1983,Los Angeles Lakers,febb7cfefb15e7f6000159ed,82,58
+1983,Cleveland Cavaliers,02022020294f0c2900034910,82,23
+1983,Denver Nuggets,5c52a712ff2b32b50003b467,82,45
+1983,Kansas City Kings,6baea7e31e3a20620001fbec,82,45
+1982,Washington Bullets,972d88683a62c1fd00027c7b,82,43
+1982,Golden State Warriors,32cfa7d217ab174d0000d6bc,82,45
+1982,Milwaukee Bucks,3e7fd1ee835ffe9d00011fcf,82,55
+1982,Chicago Bulls,84dc30b471e101c30003c815,82,34
+1982,San Antonio Spurs,9d1fa3fbc5378f670001686c,82,48
+1982,Houston Rockets,cbc40f05b4edfee6000157f0,82,46
+1982,New York Knicks,f86774299ac2688800001190,82,33
+1982,Cleveland Cavaliers,0404021a52101d1000000000,82,15
+1982,Phoenix Suns,b9c4fcdcab75605e0001e3d8,82,46
+1982,Dallas Mavericks,924640027093a1e100007228,82,28
+1982,Philadelphia 76ers,bd9e7fefbe3ff5c40003cfb1,82,58
+1982,Detroit Pistons,8f4016c7ccaab9480002ac57,82,39
+1982,Kansas City Kings,1165610cac18a0190003911a,82,30
+1982,Utah Jazz,c0508a750021e41000026700,82,25
+1982,Boston Celtics,b6db7bfdfff59e770002bbbf,82,63
+1982,Indiana Pacers,93abb4a317d622200000914a,82,35
+1982,Denver Nuggets,4dd01f0ded074eeb000289ff,82,46
+1982,Seattle SuperSonics,e5fb6f316ea87f5f00014f2e,82,52
+1982,Atlanta Hawks,f6180f9c9f0f804a00017677,82,42
+1982,Los Angeles Lakers,7efb7fd4a3f8e5ba0003bdcf,82,57
+1982,Portland Trail Blazers,6660f47f9520bb8e00023cc3,82,42
+1982,San Diego Clippers,2802b0212020124d00020000,82,17
+1982,New Jersey Nets,53ca91105f2bdbab0003e792,82,44
+1984,New York Knicks,8a67bdc3ee0fbf5600014c53,82,47
+1984,Utah Jazz,3fdf526c10c65cb70001973c,82,45
+1984,Boston Celtics,bdfbc3fefd3a7fdf0002ff96,82,62
+1984,Los Angeles Lakers,4ae6e7f3addaff2e0000bbaf,82,54
+1984,Indiana Pacers,7608409481984380000103d8,82,26
+1984,Atlanta Hawks,5b462f0e0381ee7a0003da12,82,40
+1984,Washington Bullets,bbce26a84295d60000009c13,82,35
+1984,San Diego Clippers,a8940c0ee5c2868100022644,82,30
+1984,Golden State Warriors,151a52b3aed0c1a700027830,82,37
+1984,Detroit Pistons,bb4726a5f3aed89f0001ddf0,82,49
+1984,New Jersey Nets,421e296dbf84d3dd0000f967,82,45
+1984,Phoenix Suns,7bb421a4f4e389d00003f628,82,41
+1984,Portland Trail Blazers,3bec76f5bb8f8a6c000107f8,82,48
+1984,San Antonio Spurs,83c44962807c0ee300036973,82,37
+1984,Philadelphia 76ers,d3f6fdd7fa1a88f4000333bd,82,52
+1984,Denver Nuggets,c106d71977302b0c00011cdd,82,38
+1984,Seattle SuperSonics,b13129ce066a3d3f0003ca2e,82,42
+1984,Dallas Mavericks,d051fead56b60e3900017075,82,43
+1984,Milwaukee Bucks,748fe9793f7d88f80003bbd2,82,50
+1984,Houston Rockets,25514c898a5037c4000010c1,82,29
+1984,Cleveland Cavaliers,205350184067dc2c00020868,82,28
+1984,Chicago Bulls,cbf806914411f02000001005,82,27
+1984,Kansas City Kings,0334ee14bb3ab1130003144d,82,38
+1985,Washington Bullets,ea1ebf8652885e6400026315,82,40
+1985,Boston Celtics,75deffdfb75bdd7f0000b9ff,82,63
+1985,Phoenix Suns,91e7065f5833c0d100034821,82,36
+1985,Atlanta Hawks,a8689c91046a34a500039552,82,34
+1985,Cleveland Cavaliers,e3602200bf69650a00015f8c,82,36
+1985,Utah Jazz,a86a656ce2d6d5060002e6d4,82,41
+1985,Philadelphia 76ers,fdefed9f65d7b57f000156c7,82,58
+1985,New Jersey Nets,f260cd322f3bc8720003b4aa,82,42
+1985,Houston Rockets,cb914cffce6f73850002d3a9,82,48
+1985,Golden State Warriors,1489a230ce90200000003044,82,22
+1985,Portland Trail Blazers,101cf52bb31f245500035bdc,82,42
+1985,Chicago Bulls,383e21ed3a421ea90000594d,82,38
+1985,Detroit Pistons,a1f695acd22477fb0003e5d0,82,46
+1985,Los Angeles Lakers,fe9b7f34f6ffaf1b0003f7bf,82,62
+1985,Los Angeles Clippers,0fd94415004901780001b664,82,31
+1985,Milwaukee Bucks,fe72637df6f8ffe300039feb,82,59
+1985,Dallas Mavericks,9c6a65cab1e7933700028967,82,44
+1985,Seattle SuperSonics,136e630989c84ae40000101c,82,31
+1985,Denver Nuggets,5518bfedbf7c7f9c00013bb8,82,52
+1985,New York Knicks,1311f88182823c080000002a,82,24
+1985,San Antonio Spurs,494b80b7788eaaf500015b54,82,41
+1985,Indiana Pacers,e1808b04029061d000006001,82,22
+1985,Kansas City Kings,4be90a20b9288481000044f9,82,31
+1986,Washington Bullets,597b3a03d5920f68000271c1,82,39
+1986,Cleveland Cavaliers,2acd46689136019100020340,82,29
+1986,Milwaukee Bucks,c956fcf6effcbb5f00033ef8,82,57
+1986,Denver Nuggets,46d91f3fe7e6da1e0001646c,82,47
+1986,Boston Celtics,f2b7fdfe9febbffe00035fff,82,67
+1986,Phoenix Suns,c7ba1200850cec1600030459,82,32
+1986,Los Angeles Clippers,4a24201f109c5e9000015e26,82,32
+1986,Houston Rockets,62ed97f5c592bedf0000fd56,82,51
+1986,Detroit Pistons,0852f2f5dffbb6e40002ca86,82,46
+1986,Seattle SuperSonics,2126e318ac34281500024c54,82,31
+1986,Sacramento Kings,828a452417e733870000eb13,82,37
+1986,New Jersey Nets,7de2e1d931094a9d0000d432,82,39
+1986,Atlanta Hawks,eb589754fbcad5db0003955b,82,50
+1986,Philadelphia 76ers,ff27c5a58ecf17be0001faf7,82,54
+1986,Los Angeles Lakers,d7dfefeffb56dc5b0001ddef,82,62
+1986,Golden State Warriors,88221bc88a3403020000c7ba,82,30
+1986,New York Knicks,3ca487001080d23400008060,82,23
+1986,Chicago Bulls,524150871380882700017507,82,30
+1986,Portland Trail Blazers,e54743db80046f35000199a7,82,40
+1986,Utah Jazz,074decac9f49aac100034bb4,82,42
+1986,Indiana Pacers,a26a01215238f50000008038,82,26
+1986,San Antonio Spurs,7d6ba5ca80e68b1200030440,82,35
+1986,Dallas Mavericks,a945fb09dc0ddf1300028d5e,82,44
+1987,Washington Bullets,4accd74462ceed4f0001ab11,82,42
+1987,Utah Jazz,8ddfca76c4a33b61000071ad,82,44
+1987,San Antonio Spurs,2042188a89887f620001801a,82,28
+1987,Milwaukee Bucks,c7db5d73eafe3a9100037646,82,50
+1987,New York Knicks,bc0222901e08602600000c82,82,24
+1987,Indiana Pacers,f53642d6d23ce038000314fc,82,41
+1987,Golden State Warriors,c671fa4ef24860da0003527c,82,42
+1987,Seattle SuperSonics,c365ad9377601b4d0002c224,82,39
+1987,Los Angeles Clippers,0004002a10248a0800000008,82,12
+1987,New Jersey Nets,ad90402179890040000011a2,82,24
+1987,Denver Nuggets,12a21e8d5084739c0002976b,82,37
+1987,Los Angeles Lakers,ff6bbbfefdfbaafc0000ffef,82,65
+1987,Detroit Pistons,f7bede2cfe3eee2d0001c564,82,52
+1987,Phoenix Suns,8467a3850c058e300003bfa8,82,36
+1987,Boston Celtics,fe75b3edaef9efde0003c6de,82,59
+1987,Chicago Bulls,e56a233705bce8350000d196,82,40
+1987,Dallas Mavericks,bdd6fd4da6f976d40002e7df,82,55
+1987,Sacramento Kings,41840a61812381b800014f70,82,29
+1987,Portland Trail Blazers,6ddf1bd0aaf9e63b000332cd,82,49
+1987,Atlanta Hawks,9b3deedfffd275850001ff3d,82,57
+1987,Philadelphia 76ers,e886f6796a1c6ed9000265a7,82,45
+1987,Houston Rockets,b90a115b435ae9ef00017847,82,42
+1987,Cleveland Cavaliers,0aa9f019414c9a210002b04a,82,31
+1988,Washington Bullets,e8350c1833f8845e00026aec,82,38
+1988,Milwaukee Bucks,64ea5aee5d75e69100018225,82,42
+1988,Utah Jazz,8d0ccd5aebe7af320003ec66,82,47
+1988,Los Angeles Clippers,80093294400808080000044a,82,17
+1988,New York Knicks,8ca30d20b2dd6c8c00025dd1,82,38
+1988,San Antonio Spurs,11c9e34a501620ca000094b2,82,31
+1988,Seattle SuperSonics,dd6593d239c8417e00029b5d,82,44
+1988,Cleveland Cavaliers,397538a11816cfa30003dee4,82,42
+1988,Indiana Pacers,55235cd64423fa710001a485,82,38
+1988,Phoenix Suns,c9886a64e00a240000006a55,82,28
+1988,Golden State Warriors,422088080601366200002901,82,20
+1988,Philadelphia 76ers,782774b1da4112830000cc39,82,36
+1988,Denver Nuggets,596d6b9b51decfac0002fbff,82,54
+1988,Portland Trail Blazers,6cf8ff83dff695ba0003bae8,82,53
+1988,Detroit Pistons,a4bff5d9fd7e7e990002bb85,82,54
+1988,Dallas Mavericks,73e5f76559ffc87f00034787,82,53
+1988,Sacramento Kings,914806058500959800018508,82,24
+1988,Boston Celtics,bdf89abffc7acdbf0000cff6,82,57
+1988,Houston Rockets,6f43a4bd3b5377b300022993,82,46
+1988,Chicago Bulls,782c76efbb1693b600027eee,82,50
+1988,Los Angeles Lakers,fffe8cff27bff7f60003d5d3,82,62
+1988,Atlanta Hawks,dfbef95bb638b0b5000151fc,82,50
+1988,New Jersey Nets,2122003045c0a30500020002,82,19
+1989,New York Knicks,b1bf6d7c9f5df98f00032a71,82,52
+1989,Cleveland Cavaliers,5ffdbcefd27eed5f00024de5,82,57
+1989,Detroit Pistons,96ceeaffdff73fae0003efbf,82,63
+1989,Los Angeles Lakers,d90bfbbd7ef7377d0003ecd6,82,57
+1989,Houston Rockets,a7eb53bccd01edc30001e49c,82,45
+1989,Milwaukee Bucks,fde7368da7dd2f7a00012546,82,49
+1989,Atlanta Hawks,9f73f167517b96780001ff75,82,52
+1989,Los Angeles Clippers,06220cd2300040000000b139,82,21
+1989,Phoenix Suns,7deaf46cf1cdf37a0002ffad,82,55
+1989,Seattle SuperSonics,be5cea4741d74afd0001fe03,82,47
+1989,Charlotte Hornets,4484b0848024910800009802,82,20
+1989,Dallas Mavericks,033d8fb6032976660003a2c0,82,38
+1989,Boston Celtics,64746ce1bdd82db1000234b6,82,42
+1989,Sacramento Kings,328644806210302600015c69,82,27
+1989,Denver Nuggets,6c5c7bb9c97ab308000183e7,82,44
+1989,Chicago Bulls,ce76c35aac6fb2af000140df,82,47
+1989,Indiana Pacers,f0059200857800600003361b,82,28
+1989,Miami Heat,00c20000240984040002020e,82,15
+1989,San Antonio Spurs,38403505ad00062000000190,82,21
+1989,Washington Bullets,c994064876f730dc0000d3e6,82,40
+1989,Philadelphia 76ers,c2c35ed36c64eb970002e2f6,82,46
+1989,Golden State Warriors,f33290b5e34eef8f00000e61,82,43
+1989,Portland Trail Blazers,abdd4f2389781b8200021ec0,82,39
+1989,Utah Jazz,5d0d53fafe9f4b7700027a9c,82,51
+1989,New Jersey Nets,2b5028d6062a224c00002420,82,26
+1990,Indiana Pacers,0fa37d8f08d3c11a00026e3e,82,42
+1990,Milwaukee Bucks,ef96126ee07a997900034f14,82,44
+1990,Washington Bullets,1079283d24b8d202000062e4,82,31
+1990,Cleveland Cavaliers,b41e09f0f81cab830003f56c,82,42
+1990,Los Angeles Lakers,af79d7fd9eefbcf70001f7f7,82,63
+1990,New York Knicks,d7fd5dda194dfa0e00005388,82,45
+1990,Houston Rockets,c24879565f91297300025e74,82,41
+1990,New Jersey Nets,822540130308001300000420,82,17
+1990,Golden State Warriors,f8fc42143640af6100028395,82,37
+1990,Sacramento Kings,4400c486a98640b40000080a,82,23
+1990,Minnesota Timberwolves,4401a0282447870000001168,82,22
+1990,Denver Nuggets,4fa67f4e27962c940002ea83,82,43
+1990,Boston Celtics,5ed3c9d3d8f0eb5d0003bf67,82,52
+1990,Phoenix Suns,f6e64a597f9ff73f00015d66,82,54
+1990,Miami Heat,00d004649a40206000010060,82,18
+1990,Seattle SuperSonics,9943d5a5b29f4e830001b1a2,82,41
+1990,Detroit Pistons,f78d75d3ffdfff5b000359a3,82,59
+1990,Los Angeles Clippers,d51ca2919540521d00001320,82,30
+1990,Portland Trail Blazers,f1a77f5bff45dbfb0003de6b,82,59
+1990,Dallas Mavericks,9bcc6ae4b137cfe00003d15f,82,47
+1990,Charlotte Hornets,0b2004a0402080040000874b,82,19
+1990,Orlando Magic,008437060080c52100020002,82,18
+1990,Chicago Bulls,3ebeec6ddbfe86760000cffb,82,55
+1990,Atlanta Hawks,2967f6d8c9f0a0700003b8d8,82,41
+1990,Philadelphia 76ers,a8e98f6a8d973ffd0001ebfd,82,53
+1990,San Antonio Spurs,6dfdfba9dcbb1f360003fa57,82,56
+1990,Utah Jazz,ae9de4f7bdfce6ff00012c9e,82,55
+1991,Orlando Magic,680501c00c78f4090003452f,82,31
+1991,Cleveland Cavaliers,0102a5ec52938a500003d714,82,33
+1991,New York Knicks,315c4179fbe494710002a486,82,39
+1991,Philadelphia 76ers,876f5ee354fe250c00008ec7,82,44
+1991,Golden State Warriors,a195c5f55c8553dd0003e323,82,44
+1991,Milwaukee Bucks,fede5f3e52dce06100021d9e,82,48
+1991,New Jersey Nets,00c5b848c0cb016800019022,82,26
+1991,Sacramento Kings,081cc0802300709d00028d48,82,25
+1991,Washington Bullets,b9d14c1220088c650000708e,82,30
+1991,Dallas Mavericks,6262089e9121cd9000018042,82,28
+1991,Houston Rockets,6b56b36cff76f721000233df,82,52
+1991,Phoenix Suns,cf3f8d5dbfb6dacf0002d8eb,82,55
+1991,Indiana Pacers,324a848dcd9f8ba60001caad,82,41
+1991,Denver Nuggets,020c308028880fd400010020,82,20
+1991,Minnesota Timberwolves,8c05123161220d0d00036c82,82,29
+1991,Boston Celtics,f7fbbfd77d97f643000033cb,82,56
+1991,Charlotte Hornets,a4006b46884884880000e2b0,82,26
+1991,Utah Jazz,fadfbe86a3eedd350001ed8f,82,54
+1991,Portland Trail Blazers,3eeff7ff543b6fe70001fffe,82,63
+1991,Los Angeles Lakers,d79d7fa4f1aebfff00025fb3,82,58
+1991,Chicago Bulls,df73f978ff7ff55f0003d9b5,82,61
+1991,Los Angeles Clippers,0209cb4360d90252000026f9,82,31
+1991,Atlanta Hawks,fe7ec0179776607c00022e12,82,43
+1991,Detroit Pistons,f9887feba834bebf0001a3ea,82,50
+1991,Miami Heat,15002429138b502900010860,82,24
+1991,San Antonio Spurs,ddbfd5eb97cc32fa0002e7be,82,55
+1991,Seattle SuperSonics,59fa408705f45a5a00013ee3,82,41
+1992,Charlotte Hornets,10941a08dbeae20b0000824a,82,31
+1992,Philadelphia 76ers,44b6037c4e48b3e300030610,82,35
+1992,Golden State Warriors,9f79cd6fd6cff38f0003b2f8,82,55
+1992,Milwaukee Bucks,7b698c33c504ec1800004004,82,31
+1992,Los Angeles Lakers,c46e5ff2b44067ae0003227c,82,43
+1992,Washington Bullets,3b8051839c09280600010280,82,25
+1992,Utah Jazz,e3be6d71f97ef5e30003fa5c,82,55
+1992,New York Knicks,9af77e3c3d1677d10002a37f,82,51
+1992,Cleveland Cavaliers,ffd5bee47d5d8f6900036bdf,82,57
+1992,Los Angeles Clippers,a4ff205eb38fb0a40000bcfd,82,45
+1992,Dallas Mavericks,06585b880092804000032180,82,22
+1992,Phoenix Suns,1f7fd8139dc4ee7f000393f7,82,53
+1992,Detroit Pistons,df49609efdacf4be0000fc85,82,48
+1992,New Jersey Nets,9e49a101c3db00fb0002dbca,82,40
+1992,Houston Rockets,44f60bbd6bd216ce00005e07,82,42
+1992,Sacramento Kings,1809308901a0ea620001e8b8,82,29
+1992,Chicago Bulls,efddfff9f77733ff00037bef,82,67
+1992,Orlando Magic,800020a7808441a800009a0c,82,21
+1992,Boston Celtics,94ef7dc51e9226f10003fdfd,82,51
+1992,San Antonio Spurs,cb341cfbfbda5f4b00015506,82,47
+1992,Portland Trail Blazers,decbb6f1feadefde00016e76,82,57
+1992,Indiana Pacers,44eaa486eabdb844000196bc,82,40
+1992,Atlanta Hawks,f84b86ba80e646650000a875,82,38
+1992,Minnesota Timberwolves,90200c080042900100020380,82,15
+1992,Miami Heat,86b822f5e0b2adb0000170f0,82,38
+1992,Seattle SuperSonics,55c393dc96fbd43100015f75,82,47
+1992,Denver Nuggets,2c44e84e2009819400008009,82,24
+1993,New York Knicks,967daf177fcf7f7a0003ef7e,82,60
+1993,Minnesota Timberwolves,4100860c082249600002001c,82,19
+1993,Washington Bullets,340161d09810344100001048,82,22
+1993,Chicago Bulls,9fdd66fdd5fcf9360000df6f,82,57
+1993,Milwaukee Bucks,1d001eeb11c182d000000289,82,28
+1993,Seattle SuperSonics,7efa76afe9ff989d0001dad3,82,55
+1993,Los Angeles Lakers,7227d6e5156aeb2200026a04,82,39
+1993,Miami Heat,498482166efd99980001074a,82,36
+1993,New Jersey Nets,2ea5f8b1df46e99f00004065,82,43
+1993,San Antonio Spurs,f6f3966436917fbf00028d2d,82,49
+1993,Golden State Warriors,df3e9243812e0120000283a5,82,34
+1993,Atlanta Hawks,e1239b8a7e18a7550001c53f,82,43
+1993,Utah Jazz,afcf78f6690575530001b8dc,82,47
+1993,Detroit Pistons,16bef80a9d2d418100030bf6,82,40
+1993,Boston Celtics,e196dc09e7b87aaf0003b83f,82,48
+1993,Philadelphia 76ers,5cb14068810840970000b140,82,26
+1993,Los Angeles Clippers,0ca6f5d8309d15d50002ace5,82,41
+1993,Houston Rockets,c04de2fc7fff4f3f0000ffea,82,55
+1993,Orlando Magic,645e076bc14ad4e6000365c6,82,41
+1993,Charlotte Hornets,69ccc7c553a677a80003eac1,82,44
+1993,Sacramento Kings,2fc022271840409200007021,82,25
+1993,Denver Nuggets,900036c104e8ddba0002c9dd,82,36
+1993,Indiana Pacers,a057c93ce5ec0795000239b2,82,41
+1993,Dallas Mavericks,000100086000020100031082,82,11
+1993,Phoenix Suns,6dfffb3db7e5df7e00018bff,82,62
+1993,Cleveland Cavaliers,bbf86b0e5afefa790002ffc6,82,54
+1993,Portland Trail Blazers,ddacd4ffd4ca687e000177d3,82,51
+1994,Indiana Pacers,741d9988557bbf830003fcd9,82,47
+1994,New York Knicks,ed57d67fff8657e7000398bf,82,57
+1994,Chicago Bulls,6bff788df41c6f7f0000bff5,82,55
+1994,Milwaukee Bucks,199248018144505800008020,82,20
+1994,Minnesota Timberwolves,50115960a010405300000082,82,20
+1994,New Jersey Nets,4b5942265a6be73e0001f597,82,45
+1994,Portland Trail Blazers,4bd69b5c0f7ea9be0001278d,82,47
+1994,Phoenix Suns,3bdbfbee9e56ea950003f97d,82,56
+1994,Orlando Magic,eab36b27ce5fc5f40002e7b4,82,50
+1994,Washington Bullets,924009b40a81089300022260,82,24
+1994,Denver Nuggets,87c16ccab1b719e10002e987,82,42
+1994,Golden State Warriors,d996de52a9c7eb270001feab,82,50
+1994,Dallas Mavericks,010000080028ca0000031880,82,13
+1994,Miami Heat,1e7ca60ef5fd97b000018340,82,42
+1994,Detroit Pistons,001a01c3ec05440800000012,82,20
+1994,Charlotte Hornets,9bae0cfabb0080550001ef96,82,41
+1994,Utah Jazz,3ef3eabb5ffaad720003de90,82,53
+1994,Philadelphia 76ers,aa5a8521200032c300020b00,82,25
+1994,Los Angeles Lakers,a110f061d7323cd0000000ed,82,33
+1994,Boston Celtics,5012c4ee030007f000015b27,82,32
+1994,Los Angeles Clippers,01468a595e4824a500002082,82,27
+1994,Sacramento Kings,2e42010dcc1b620300022640,82,28
+1994,Houston Rockets,7a7f7fff7d676ce10000afdb,82,58
+1994,Atlanta Hawks,7f37ffe1d9fa57790002bd3b,82,57
+1994,Seattle SuperSonics,9fbdfbffadfa3e470003beff,82,63
+1994,San Antonio Spurs,7c69fec5ae5fff3f000288fd,82,55
+1994,Cleveland Cavaliers,a3e08e540ffeb6b7000369ba,82,47
+1995,Indiana Pacers,2aadf3d3ee3f97390002cbbe,82,52
+1995,New York Knicks,ff0575a773dba77e00039f73,82,55
+1995,Charlotte Hornets,fcecdd581b9cbf1b00025dcb,82,50
+1995,Minnesota Timberwolves,0130c04011a520a500001083,82,21
+1995,Los Angeles Lakers,9f6edf4998c7bc75000042ef,82,48
+1995,New Jersey Nets,87321ac85c4d623000030408,82,30
+1995,Portland Trail Blazers,f52ae4c7bb1e9cd80003a590,82,44
+1995,Milwaukee Bucks,130a00b35114c4bd0002ce8e,82,34
+1995,Phoenix Suns,f77f5ef6cf65ddfd0003de62,82,59
+1995,Golden State Warriors,018010dfab02921200004c90,82,26
+1995,Miami Heat,12691310832c6cca0002324e,82,32
+1995,Orlando Magic,f7dbdff63deae77e0001495e,82,57
+1995,Detroit Pistons,20104a6e056456d10000414a,82,28
+1995,Cleveland Cavaliers,4ffe3d35321bb0e30001a426,82,43
+1995,Washington Bullets,0040281b98d0205a0002a000,82,21
+1995,Boston Celtics,98491ae8818cba05000077d4,82,35
+1995,Houston Rockets,dfa531fff839d7a800007524,82,47
+1995,Philadelphia 76ers,0304b5880184282800013432,82,24
+1995,Los Angeles Clippers,24130000a942811000020500,82,17
+1995,Utah Jazz,d7fabec57fd64fff0003fa6d,82,60
+1995,Atlanta Hawks,8a8ae6509d73cccb0001db31,82,42
+1995,Denver Nuggets,4c94f13ddbce088300039c78,82,41
+1995,Chicago Bulls,9d8d5355dd9326610001fbf5,82,47
+1995,Sacramento Kings,7665e54b4880e55d00018c99,82,39
+1995,Dallas Mavericks,290ea72ddc314a01000054cf,82,36
+1995,San Antonio Spurs,3f7f294efb7faff50003f3ff,82,62
+1995,Seattle SuperSonics,fb7afd8d7d2d379f0000db7f,82,57
+1996,Indiana Pacers,bb6f44a793f237f700037eb4,82,52
+1996,Milwaukee Bucks,32c8d12100825a1c0000a280,82,25
+1996,Charlotte Hornets,96aa7826f42fa35500012ccc,82,41
+1996,New York Knicks,62ddcfbbf504b79900024b56,82,47
+1996,Golden State Warriors,796899140c2db9450000d615,82,36
+1996,Phoenix Suns,4368a734a35ebb68000145ba,82,41
+1996,Denver Nuggets,124bee402cb4560700022ce1,82,35
+1996,Cleveland Cavaliers,6f7abd80a873fc9a0001d36b,82,47
+1996,Washington Bullets,2e3ea32aae22072300003f99,82,39
+1996,Vancouver Grizzlies,612000030000816800031080,82,15
+1996,Minnesota Timberwolves,1082cc04c58c2c1c00000a2c,82,26
+1996,Dallas Mavericks,4204202f02d4232d00028620,82,26
+1996,New Jersey Nets,a88370b2082f892c0000808b,82,30
+1996,Seattle SuperSonics,bfb7b96eebfff7ee0001dbfe,82,64
+1996,Orlando Magic,7f5e7efd3fbf74d30003c9df,82,60
+1996,Philadelphia 76ers,883080091420320000028c20,82,18
+1996,Boston Celtics,209dc9646c8294110001a665,82,33
+1996,San Antonio Spurs,eefc7cdeffdb9b930001b97f,82,59
+1996,Toronto Raptors,1110a701088090c400010885,82,21
+1996,Los Angeles Lakers,1d2ce3d1b6eff7bd00037b3c,82,53
+1996,Detroit Pistons,ddd34638fbd9b26500026d94,82,46
+1996,Houston Rockets,79b7a7f7cfd72a3900033880,82,48
+1996,Utah Jazz,3d6ccfdd4fef6f790003943f,82,55
+1996,Los Angeles Clippers,8b2009f15ac2008700002896,82,29
+1996,Atlanta Hawks,a2c8397a2cf351ff000332cf,82,46
+1996,Portland Trail Blazers,640dae52f220e26f00017bfb,82,44
+1996,Sacramento Kings,8f2af99f1c1001460002e573,82,39
+1996,Chicago Bulls,fdfff7dfefdfcfff0002fbf7,82,72
+1996,Miami Heat,2a413ee778f2d2480001786f,82,42
+1997,Chicago Bulls,eff3efff6f7f7fbf0000beff,82,69
+1997,Dallas Mavericks,c4475221b0188c8800008800,82,24
+1997,Indiana Pacers,d1b8f94823ca2e3400006679,82,39
+1997,Los Angeles Clippers,e0e10335a43c9ec10000670d,82,36
+1997,Sacramento Kings,3e2a22920e9c6b2a00016c08,82,34
+1997,Phoenix Suns,18afa000db46c0dc00015ffd,82,40
+1997,Atlanta Hawks,fa7db95c3eed55df00017afe,82,56
+1997,San Antonio Spurs,1c7080445808204800000930,82,20
+1997,Cleveland Cavaliers,75f2cedb94d7a3200001a944,82,42
+1997,Washington Bullets,cebc1d45674506230003d5fb,82,44
+1997,Milwaukee Bucks,833b3237900b832500027084,82,33
+1997,New York Knicks,bbbfa3bb7f5fdd570003a5a6,82,57
+1997,Seattle SuperSonics,3e29bffa75bf99ff0003b65e,82,57
+1997,Portland Trail Blazers,e22cde59fe2d06db0003d5af,82,49
+1997,Detroit Pistons,78f7d7efd5dfaf9b0002a1a4,82,54
+1997,Toronto Raptors,0985502c70682a5300030b06,82,30
+1997,Philadelphia 76ers,020069384898348000008074,82,22
+1997,Miami Heat,7e7bfe3bd65ffdba00029fbf,82,61
+1997,Utah Jazz,4cd7fff3df6fefb80003dfff,82,64
+1997,Boston Celtics,64040c2402000a0200012004,82,15
+1997,Houston Rockets,387effbf7ed902f70003def6,82,57
+1997,Minnesota Timberwolves,de20646594f6b966000153a2,82,40
+1997,Charlotte Hornets,b35e2f0d7efaf5bc0000ff9d,82,54
+1997,Denver Nuggets,870021528408d5a000020040,82,21
+1997,Golden State Warriors,2e19a142cc42c25900009380,82,30
+1997,Vancouver Grizzlies,094410800031008200028020,82,14
+1997,Los Angeles Lakers,f5f75767b493bf3b0001edf3,82,56
+1997,Orlando Magic,d4410adef37e0fbd00007a1e,82,45
+1997,New Jersey Nets,2320a8a0c462522400030834,82,26
+1998,Chicago Bulls,dfe79b2ebdfebbdd00032fff,82,62
+1998,New York Knicks,55725dcd11dbc8f500012275,82,43
+1998,San Antonio Spurs,f7f1527b73ccfb7d0003a7db,82,56
+1998,Washington Wizards,9f8f40cc6d86e58e0003c619,82,42
+1998,Cleveland Cavaliers,732ffc6ca69119cc000275f7,82,47
+1998,Utah Jazz,f6d5f9d2ffefed770001dfbe,82,62
+1998,Toronto Raptors,0910000440a0479400004001,82,16
+1998,Golden State Warriors,031a8200142d010000038220,82,19
+1998,Indiana Pacers,75f9fb8adbaadfdf0001fdae,82,58
+1998,Atlanta Hawks,80f1e7ffdee3305f000375a9,82,50
+1998,Milwaukee Bucks,95055a5d023a3f1c00009b88,82,36
+1998,Los Angeles Clippers,e10920084880804200020041,82,17
+1998,Seattle SuperSonics,fbf6febdf3eb7ae70002d7d9,82,61
+1998,Dallas Mavericks,000120074d02124100004136,82,20
+1998,Philadelphia 76ers,520489607355202f00021741,82,31
+1998,Portland Trail Blazers,2f4735be5267d9780000dd71,82,46
+1998,New Jersey Nets,2d626d8f018f9ced00023ea5,82,43
+1998,Charlotte Hornets,353e4fbc7fe26f470002e19f,82,51
+1998,Denver Nuggets,000110008000490000011085,82,11
+1998,Sacramento Kings,a6981650301e983700000400,82,27
+1998,Miami Heat,9d97bb6bb7fef2c7000065fd,82,55
+1998,Orlando Magic,107b5fb21cfad01a000198cd,82,41
+1998,Detroit Pistons,cc7a928362b0c4d60001a03d,82,37
+1998,Houston Rockets,1519ff0bea8ed5410000b817,82,41
+1998,Vancouver Grizzlies,046215620804070000021408,82,19
+1998,Boston Celtics,35ec1bc10bb2568800011724,82,36
+1998,Minnesota Timberwolves,5ed1419b2919a37f00037cec,82,45
+1998,Los Angeles Lakers,6f71d7ff7e745cf70003efdf,82,61
+1998,Phoenix Suns,ede3577bf49f5edc0002ffc5,82,56
+1999,Cleveland Cavaliers,e2dd50f800004074,50,22
+1999,Toronto Raptors,fd7ca4c1000206c0,50,23
+1999,Philadelphia 76ers,226c7e1700025f67,50,28
+1999,Minnesota Timberwolves,ed0b63dd0000e111,50,25
+1999,Washington Wizards,2a92d0e200014068,50,18
+1999,Phoenix Suns,463296b30002ddd6,50,27
+1999,Houston Rockets,7fdd94be00039172,50,31
+1999,Detroit Pistons,fd8afd070001f88c,50,29
+1999,New York Knicks,d17527bc00035c38,50,27
+1999,Sacramento Kings,586348e60003ef9a,50,27
+1999,Dallas Mavericks,1230da020000f331,50,19
+1999,Chicago Bulls,214a320200008301,50,13
+1999,New Jersey Nets,e120102200028ac5,50,16
+1999,Milwaukee Bucks,7961f9370001b532,50,28
+1999,Orlando Magic,6de3d7bd0003c13f,50,33
+1999,Indiana Pacers,8dcf6fb50003ce67,50,33
+1999,Utah Jazz,e67edbbf0002ccff,50,37
+1999,Atlanta Hawks,3ebd195b0002bf87,50,31
+1999,Miami Heat,c27ef7f200019bcf,50,33
+1999,Denver Nuggets,a12036100000064a,50,14
+1999,Vancouver Grizzlies,2080023400000408,50,8
+1999,Portland Trail Blazers,efdbfdf600009d95,50,35
+1999,Boston Celtics,0a08272a000058db,50,19
+1999,Los Angeles Lakers,ccbff1cd0003c635,50,31
+1999,San Antonio Spurs,f77fca630003efeb,50,37
+1999,Golden State Warriors,96868de0000118b8,50,21
+1999,Seattle SuperSonics,8a9c193f0003562a,50,25
+1999,Los Angeles Clippers,0482000000000c5a,50,9
+1999,Charlotte Hornets,0772aa04000355ff,50,26
+2000,Orlando Magic,83e9ac3abb07d70000024bf8,82,41
+2000,Golden State Warriors,009c005000960f3000003001,82,19
+2000,Phoenix Suns,24f67f1ecf9fecba000279d7,82,53
+2000,Milwaukee Bucks,ace999a749045a660003bb69,82,42
+2000,Seattle SuperSonics,c1b5b7b7696ca8fe0001a283,82,45
+2000,Detroit Pistons,fccd1f506c68e40e00022797,82,42
+2000,Indiana Pacers,7f6fd2753cfbde2e0003e78f,82,56
+2000,Cleveland Cavaliers,880d3a2e0716160b000248ca,82,32
+2000,Philadelphia 76ers,7596e4e8a7b5517b0002f63f,82,49
+2000,Boston Celtics,590345a7bc22247a00037003,82,35
+2000,Los Angeles Lakers,fff7f5bbffffe4af0000effe,82,67
+2000,Portland Trail Blazers,7e7577efe2ffefcf0001d9ca,82,59
+2000,Atlanta Hawks,8213e584108cd5c200018022,82,28
+2000,Washington Wizards,4ba04d013520290400004b6e,82,29
+2000,New York Knicks,e6fb6917f4b75aba000136dc,82,50
+2000,New Jersey Nets,3db60808f34cc0c700000062,82,31
+2000,Vancouver Grizzlies,a182002c0055930300020308,82,22
+2000,Los Angeles Clippers,87500684c100040000020000,82,15
+2000,Dallas Mavericks,042320c5e06677ad0003df66,82,40
+2000,Miami Heat,5d877b7df2f4dcad00018fe9,82,52
+2000,Houston Rockets,25075060070538fc00017d68,82,34
+2000,Charlotte Hornets,0c7f9b336c8af3780003f9fc,82,49
+2000,San Antonio Spurs,65d1fd77b96db74e0003b8fa,82,53
+2000,Toronto Raptors,5d13b35eefe8b78c0000dc21,82,45
+2000,Denver Nuggets,a6e9a789012d06c00003c9a1,82,35
+2000,Minnesota Timberwolves,7df00c6eb77a1b7d00015e5f,82,50
+2000,Chicago Bulls,700100200403143400001508,82,17
+2000,Sacramento Kings,cf44abfd9e84c95f000022ab,82,44
+2000,Utah Jazz,fcbfa6da7fdf60760002a76f,82,55
+2001,Charlotte Hornets,1fdafc1defec282a0003c30d,82,46
+2001,Sacramento Kings,d773ddf5bedd475e00013e76,82,55
+2001,Milwaukee Bucks,6f7b70c44e7d39fe0001e6df,82,52
+2001,Phoenix Suns,6b1d9cfe667b6c8b0002eafe,82,51
+2001,Minnesota Timberwolves,b0dea7c59e83ffa60000973c,82,47
+2001,Cleveland Cavaliers,883f0e6f202400c80001d019,82,30
+2001,Philadelphia 76ers,fcacebfffcfd2f7d00019da0,82,56
+2001,Washington Wizards,c0802412d0103e0000004088,82,19
+2001,Los Angeles Lakers,df277dcdcf7af5350003fd33,82,56
+2001,Indiana Pacers,912d487c885e21e60002fead,82,41
+2001,Detroit Pistons,8d25d2a16425a84000007b82,82,32
+2001,Los Angeles Clippers,8d48832463c1c0140001cab4,82,31
+2001,Seattle SuperSonics,67d5ad220c457c78000267bf,82,44
+2001,Utah Jazz,0e4efd9f5edf7dde0001598b,82,53
+2001,Orlando Magic,338f2099adc7fcdc0000a565,82,43
+2001,Toronto Raptors,13349d78cf9399dd00035ef4,82,47
+2001,Denver Nuggets,d783575205088af70002754b,82,40
+2001,Golden State Warriors,b504a501010082c000000010,82,17
+2001,Vancouver Grizzlies,4102501b603e480900020500,82,23
+2001,Atlanta Hawks,4f51488080180a0d00022309,82,25
+2001,Portland Trail Blazers,f9eb7af40f2ed9df000068ba,82,50
+2001,Miami Heat,f96f42595d8ebece00033e9e,82,50
+2001,New Jersey Nets,406803aa92c7016100000aa0,82,26
+2001,New York Knicks,f9374e6ed9ca5a3b00025717,82,48
+2001,Boston Celtics,13092cc3250d7ea80001127b,82,36
+2001,San Antonio Spurs,ebccb5d7ff67bfc30001bedd,82,58
+2001,Chicago Bulls,a82040100523000000032008,82,15
+2001,Houston Rockets,d03aaf3276f78c6600039947,82,45
+2001,Dallas Mavericks,6f396eabf759d71e0003c773,82,53
+2002,Boston Celtics,a9ddf875fc2ac59c0003dec9,82,49
+2002,Detroit Pistons,480ed9dea5df77b400039bb7,82,50
+2002,Atlanta Hawks,54711a84e68ec0810000a62e,82,33
+2002,Portland Trail Blazers,8164e6b2bffd2fbd00038c5b,82,49
+2002,Philadelphia 76ers,cac04fe07b99377a0000da5a,82,43
+2002,Indiana Pacers,7ab630f6ccd0d4160003e48b,82,42
+2002,Washington Wizards,f3fe680606027d90000250cd,82,37
+2002,Toronto Raptors,d709e73c8002b9ec0002dff0,82,42
+2002,Denver Nuggets,086086e10640d1220001c34c,82,27
+2002,Seattle SuperSonics,7e84ea8a7bdcc6cb000223dc,82,45
+2002,Los Angeles Clippers,a3bb62d8ee5266a100011119,82,39
+2002,Milwaukee Bucks,879d83ef4aba247f00018228,82,41
+2002,New Jersey Nets,ae7b4cfb427e3b5f00026dbb,82,52
+2002,Cleveland Cavaliers,529b68842967880000003a06,82,29
+2002,Golden State Warriors,1a8424ec0440411000020620,82,21
+2002,Phoenix Suns,7467dab232a1699000022170,82,36
+2002,Dallas Mavericks,7fe378bb7dd3afee0001dbb5,82,57
+2002,San Antonio Spurs,d8ffd7f5fe9e62990003fe3f,82,58
+2002,Los Angeles Lakers,fcb9ff7ff778de94000373b9,82,58
+2002,Chicago Bulls,1804a0040270d22800017004,82,21
+2002,New York Knicks,490ee991ca81478000008522,82,30
+2002,Orlando Magic,c48f1b25e1bb4e9e00011ba7,82,44
+2002,Memphis Grizzlies,1b04d1005008880e0000b4a0,82,23
+2002,Miami Heat,70250009b7b5bafc00025442,82,36
+2002,Sacramento Kings,f33dddcf7996beff00017ff7,82,61
+2002,Minnesota Timberwolves,f71f8bbf05db24df00029bcc,82,50
+2002,Charlotte Hornets,493632a3a31b399700034ebf,82,44
+2002,Utah Jazz,795e52a40d7e71370000c5db,82,44
+2002,Houston Rockets,a8000a3be56a984a00002110,82,28
+2003,San Antonio Spurs,2f6a9e5dfbdff6f700017ff5,82,60
+2003,Philadelphia 76ers,4707fb9edbfe5aa0000233b3,82,48
+2003,Cleveland Cavaliers,2148000a0102102200028831,82,17
+2003,Chicago Bulls,45d8024346300d130002b0b1,82,30
+2003,New York Knicks,1d2c72106a8656e900016c56,82,37
+2003,Houston Rockets,b1cd65b6f0d2343d00039929,82,43
+2003,Dallas Mavericks,dddbbfff3cfc7b8f00038b77,82,60
+2003,Orlando Magic,ac8dc93bbbc44e490000e1bc,82,42
+2003,Denver Nuggets,400838244000c046000002a1,82,17
+2003,Atlanta Hawks,0a0ca38eb450ec0c0001ec63,82,35
+2003,Utah Jazz,f70efca4cc5b38f60000c6fc,82,47
+2003,Milwaukee Bucks,2628a56c6c43b77d0003de28,82,42
+2003,Los Angeles Lakers,d135310c9df9fcbe00037eeb,82,50
+2003,Phoenix Suns,bef338f29a1389350000f6ca,82,44
+2003,Washington Wizards,d1cb037293a5915700005862,82,37
+2003,Portland Trail Blazers,dfe72e51e79cf7da0001958c,82,50
+2003,Boston Celtics,466dbcfcbb2f0de200032702,82,44
+2003,New Orleans Hornets,08de5dbd7fa727060003e935,82,47
+2003,Memphis Grizzlies,aaf06000f94d011100006025,82,28
+2003,Seattle SuperSonics,616a23cf47d8166000022ddb,82,40
+2003,Indiana Pacers,7a72f7fd040e9ebe00031d9a,82,48
+2003,Toronto Raptors,0084c0c90595e830000002a2,82,24
+2003,Minnesota Timberwolves,596ada331fdf9fb60003a8f3,82,51
+2003,Sacramento Kings,677efdc7f7da476f00037dfa,82,59
+2003,Miami Heat,77419104844492a000024110,82,25
+2003,Golden State Warriors,b91394818fc74765000031aa,82,38
+2003,New Jersey Nets,fe7d35af8469bc5700009bd5,82,49
+2003,Detroit Pistons,d9f8bbbbf01dfaab0001a1b6,82,50
+2003,Los Angeles Clippers,099ca4642012114c0003890a,82,27
+2004,Dallas Mavericks,b86b3dce47eb9ff200033f1b,82,52
+2004,Miami Heat,5cf14580e1e0dc85000376fe,82,42
+2004,Phoenix Suns,c5022e322c0223c00002c564,82,29
+2004,Washington Wizards,2084261906c192c40000504c,82,25
+2004,San Antonio Spurs,fff86d9575bf4d1e0003ffb3,82,57
+2004,Indiana Pacers,956aff7dfdddcfbf0003ede5,82,61
+2004,Milwaukee Bucks,9d62b1568f4a2e6f00007aa0,82,41
+2004,Atlanta Hawks,20212948091695450001c989,82,28
+2004,Orlando Magic,2eb0000193804a9000030004,82,21
+2004,Cleveland Cavaliers,4e280660f5c8dda200038087,82,35
+2004,New Jersey Nets,ddbc3326d57ffe0b0000ae22,82,47
+2004,Portland Trail Blazers,1651cceaa1f1de82000036d7,82,41
+2004,Denver Nuggets,39a7ed9510738e590001b98d,82,43
+2004,New Orleans Hornets,a8f6af37933a1c850002c84a,82,41
+2004,Los Angeles Clippers,295e303c213074c500010004,82,28
+2004,Seattle SuperSonics,bb1864b704492343000290fe,82,37
+2004,Boston Celtics,aaf86163f808187400020b99,82,36
+2004,Detroit Pistons,e50f5e3ebc81e3ff0001fe7f,82,54
+2004,Minnesota Timberwolves,77ee9d65977d77df0003fe72,82,58
+2004,Philadelphia 76ers,093a99a9c852422d000025c3,82,33
+2004,Utah Jazz,5a52f52d9e8c383a0000b573,82,42
+2004,Sacramento Kings,f3deff4beef7bcbe00009932,82,55
+2004,Memphis Grizzlies,01afc5c6fcfbc7fb000027f5,82,50
+2004,Chicago Bulls,986101520c32081200008c18,82,23
+2004,Toronto Raptors,b21f6a2b4803641500031016,82,33
+2004,Los Angeles Lakers,099ffb9fbb7dab1700034ffe,82,56
+2004,New York Knicks,e9817214e04f97a10001d55c,82,39
+2004,Golden State Warriors,0666785a00a69ca400029afe,82,37
+2004,Houston Rockets,c98f16bdf35b8775000160b1,82,45
+2005,Sacramento Kings,5cdbefe871a436bf00027ab5,82,50
+2005,Houston Rockets,756e0c9cfd1fe79e0003f8dc,82,51
+2005,Denver Nuggets,1027b7a2dfeadc6400027fef,82,49
+2005,Philadelphia 76ers,675c0c71a68e6cb400036f1d,82,43
+2005,Indiana Pacers,1e301dcfda3eb02b000237ec,82,44
+2005,Portland Trail Blazers,096536a308123a8100028808,82,27
+2005,Seattle SuperSonics,9daf7bfeb1dcfacd0000c0af,82,52
+2005,Washington Wizards,f2537b93b291e1e70000f07a,82,45
+2005,New York Knicks,1cda3b4c4dd4820200026803,82,33
+2005,Miami Heat,fffd574fff3fbaa6000386af,82,59
+2005,Dallas Mavericks,fb6b62efb45fad7c0003fef7,82,58
+2005,Milwaukee Bucks,71c1440ec52cec6800008500,82,30
+2005,Atlanta Hawks,810500501000442200008800,82,13
+2005,Los Angeles Lakers,cd2d6d991b0e463600000820,82,34
+2005,Minnesota Timberwolves,4256f9b55d3207cc000366f9,82,44
+2005,Cleveland Cavaliers,ed339df81c0b655500031899,82,42
+2005,New Jersey Nets,958da00aa394de700003ddcf,82,42
+2005,Utah Jazz,0228126f01c2449800012514,82,26
+2005,San Antonio Spurs,7de7f9fbcfb5f7b70000bb71,82,59
+2005,Orlando Magic,e146edab038d165a00010162,82,36
+2005,Phoenix Suns,f7ff7fcf5edbbe070001f3f7,82,62
+2005,Los Angeles Clippers,7482f8d5d2c03b060002a61c,82,37
+2005,Detroit Pistons,b733a94df47fbe1f0001ffd1,82,54
+2005,Memphis Grizzlies,e72d06b0d78776f700010ec5,82,45
+2005,Chicago Bulls,f4fa8a00871bd1f70001ceff,82,47
+2005,New Orleans Hornets,80100100930b026500000150,82,18
+2005,Boston Celtics,d16c709cf796eb340000f687,82,45
+2005,Golden State Warriors,1e1985404b31204000038ff7,82,34
+2005,Toronto Raptors,8a80941754e862ed00012492,82,33
+2005,Charlotte Bobcats,102c2a02002202800002300d,82,18
+2006,Sacramento Kings,583839a4fbadd23a0003bb94,82,44
+2006,Milwaukee Bucks,8cd77257d185a66200016166,82,40
+2006,Dallas Mavericks,6eef97f5bafdfff700013e2b,82,60
+2006,Denver Nuggets,8c2e2f547ad90fed0000393b,82,44
+2006,New York Knicks,f1012a60cc08010300020e00,82,23
+2006,Charlotte Bobcats,1b402906648380020003d488,82,26
+2006,New Orleans/Oklahoma City Hornets,e4b06d8500cfbcbc000026e1,82,38
+2006,Los Angeles Lakers,8377a48d6d350b3b0003e6f2,82,45
+2006,Philadelphia 76ers,4b7849f823744dca000138c4,82,38
+2006,Atlanta Hawks,616c060084d25c4800018620,82,26
+2006,Miami Heat,daf0e5e9effd7b3c00006a73,82,52
+2006,Portland Trail Blazers,0e44092c2102153c00000200,82,21
+2006,Indiana Pacers,68765b9b54b378150003720a,82,41
+2006,Los Angeles Clippers,9247a7b7bce0bdf300026359,82,47
+2006,Washington Wizards,4388a8377239f6af00038335,82,42
+2006,Phoenix Suns,dea3fea6d7ff766d000334cc,82,54
+2006,Detroit Pistons,b7fdfaff6afd9bff0000b7ef,82,64
+2006,Utah Jazz,f8b5182b1aa3624e00027d65,82,41
+2006,Memphis Grizzlies,7da3f3ce971e09430003ee3f,82,49
+2006,Cleveland Cavaliers,5bf127f93c1ccfe000035bfe,82,50
+2006,Minnesota Timberwolves,1243ed990348451700005166,82,33
+2006,New Jersey Nets,7fe33196f23d742c0000cbff,82,49
+2006,Boston Celtics,5192a9295ad6056400020a94,82,33
+2006,San Antonio Spurs,f677efbbd7f3fef50003b3d7,82,63
+2006,Toronto Raptors,f3130200c40e709900008016,82,27
+2006,Chicago Bulls,80552f19ca9a87a30003f7b0,82,41
+2006,Orlando Magic,470c1e58b02010f80000ff79,82,36
+2006,Golden State Warriors,7053eaada10a64300001e00d,82,34
+2006,Seattle SuperSonics,4a62e3a26a42158400028f35,82,35
+2006,Houston Rockets,305f40513ceef1a0000108d0,82,34
+2007,Phoenix Suns,fafffec2fdf1afff0000fbac,82,61
+2007,Chicago Bulls,75f7f029b9c8dce20001dde7,82,49
+2007,New Orleans/Oklahoma City Hornets,1109078f02d76e5c0003372d,82,39
+2007,Indiana Pacers,6d98d62d001c770e00002d09,82,35
+2007,Washington Wizards,df77611ac70e4ef2000240a2,82,41
+2007,Milwaukee Bucks,5f96a8852701081000014203,82,28
+2007,Los Angeles Lakers,d65dd7970381a2730003093e,82,42
+2007,New York Knicks,5ca923115aab525c00020842,82,33
+2007,Sacramento Kings,1b141c7a0f48f8d000009422,82,33
+2007,Toronto Raptors,16e1b40ae2dbeedb0000fdd9,82,47
+2007,Atlanta Hawks,4021521ee04b2d8e00022809,82,30
+2007,Los Angeles Clippers,ba05a0be05c23bcc000163bd,82,40
+2007,Portland Trail Blazers,13e4143524cc56a20000861c,82,32
+2007,Houston Rockets,f28dbd7a7256de3d0001f1df,82,52
+2007,San Antonio Spurs,6bef2f7dfff9373c00007efc,82,58
+2007,Denver Nuggets,83656fb8f2c3887c00037f89,82,45
+2007,Detroit Pistons,a3ecff26f97bfae400033bb2,82,53
+2007,Minnesota Timberwolves,f5878e43488d0c0e00000514,82,32
+2007,Seattle SuperSonics,981d18e40e9d05c0000010ea,82,31
+2007,Charlotte Bobcats,3121248480785a6700016d99,82,33
+2007,New Jersey Nets,e198c0d5838e18f60003db65,82,41
+2007,Philadelphia 76ers,530008477f2356880002bab2,82,35
+2007,Utah Jazz,dab69fef3f6fcbc200034174,82,51
+2007,Cleveland Cavaliers,ee36a5f3fd37548b0003d553,82,50
+2007,Memphis Grizzlies,41022a028114248900038184,82,22
+2007,Dallas Mavericks,ffeafff09ffff7fb0002baff,82,67
+2007,Golden State Warriors,6c6863eae0654c450003ef2e,82,42
+2007,Boston Celtics,a07c13889784000000010162,82,24
+2007,Orlando Magic,8625fbd92214620f0003d96a,82,40
+2007,Miami Heat,06cab11aff4df12f0000cea5,82,44
+2008,Utah Jazz,2903b9f5fabbff7b0001bdd6,82,54
+2008,Houston Rockets,344ce077fffff79f00027cd3,82,55
+2008,Portland Trail Blazers,bffe10786620a9570001a0b5,82,41
+2008,Dallas Mavericks,cfb2c7ddc5c9cf5f00027647,82,51
+2008,Seattle SuperSonics,24cd03000429700000031040,82,20
+2008,Washington Wizards,d47b27e0d6c8056e0001b8dd,82,43
+2008,San Antonio Spurs,d64fbef74ffef1cc000357f8,82,56
+2008,Chicago Bulls,ac55b0909929495200034524,82,33
+2008,Sacramento Kings,21a9a328c438bceb0000cf46,82,38
+2008,Milwaukee Bucks,425087cc11a1144700000308,82,26
+2008,Philadelphia 76ers,5cbc510a7b5f314000002cef,82,40
+2008,Detroit Pistons,ffdbecb76dcffc590003cfa7,82,59
+2008,Phoenix Suns,f54f9fedc956bbd600036b9f,82,55
+2008,New York Knicks,01415806015402b900007041,82,23
+2008,Miami Heat,04982a200140040000022022,82,15
+2008,Golden State Warriors,db56fdc077aedb740000a955,82,48
+2008,Denver Nuggets,dd3b17e39b177365000365f3,82,50
+2008,Toronto Raptors,a2f2e96328ed56dc000162c8,82,41
+2008,Los Angeles Lakers,dede63d6bbff745f0003de5c,82,57
+2008,Indiana Pacers,0baada078c4602a200027b3c,82,36
+2008,New Jersey Nets,f642b81d02ae3005000190cb,82,34
+2008,Orlando Magic,e48defbd7765ee910003aa5f,82,52
+2008,New Orleans Hornets,be9b47cfdd8f8ffb00012fbe,82,56
+2008,Atlanta Hawks,87ceac4921903886000057d7,82,37
+2008,Charlotte Bobcats,10ca03537c1014b30002a9d0,82,32
+2008,Minnesota Timberwolves,01020820b04835820002c096,82,22
+2008,Cleveland Cavaliers,b5207a6adce56df70001a634,82,45
+2008,Boston Celtics,ffbfeeff7fe3ed720003dfcf,82,66
+2008,Los Angeles Clippers,102a024f240d522a00000500,82,23
+2008,Memphis Grizzlies,4140b224100409410000549a,82,22
+2009,Cleveland Cavaliers,bf7ff7faef7cf7ae0001f3ff,82,66
+2009,Milwaukee Bucks,bb18631a24e652aa00018412,82,34
+2009,Portland Trail Blazers,d62fdaf26e767d5c0003f7ad,82,54
+2009,Indiana Pacers,858122726b546cc50002b6c1,82,36
+2009,New Orleans Hornets,5e7bbca7dfccc3750000939c,82,49
+2009,Memphis Grizzlies,10f4042a0806c00200024f41,82,24
+2009,Los Angeles Lakers,fcf77f7fb3f7f79e00037cfb,82,65
+2009,Sacramento Kings,81201170488100a000020090,82,17
+2009,Miami Heat,af1e955adaaa4eb400029931,82,43
+2009,Atlanta Hawks,7ee3ac3fca2da3a10001e25f,82,47
+2009,Toronto Raptors,183065270660701b000387e4,82,33
+2009,Phoenix Suns,75b0e6dd06b9a6270003ac7e,82,46
+2009,Denver Nuggets,68f76f72263bdcdf00017fbe,82,54
+2009,New Jersey Nets,2946ed894b07882d00019418,82,34
+2009,Charlotte Bobcats,360350927e2c16e60000239c,82,35
+2009,Houston Rockets,4f6d76a7dbf597710001f2f5,82,53
+2009,Chicago Bulls,45595325696ae0cc0001f3dc,82,41
+2009,Orlando Magic,bfbdefbcbd6ab9fd00022dfb,82,59
+2009,New York Knicks,a06891b9c8b03b9800029081,82,32
+2009,San Antonio Spurs,be7e7ba874f37bd70003d4e5,82,54
+2009,Golden State Warriors,4830069488ba534100009c15,82,29
+2009,Philadelphia 76ers,438a1b8ae9879afe00020739,82,41
+2009,Washington Wizards,980448208264414000009104,82,19
+2009,Oklahoma City Thunder,04020004dc0635a500024224,82,23
+2009,Boston Celtics,9ffffdfb6b6bffc200037ef2,82,62
+2009,Dallas Mavericks,eeb7be0ad756f58600037669,82,50
+2009,Los Angeles Clippers,02e88440031602400000408a,82,19
+2009,Minnesota Timberwolves,a8002a018010476f00006a02,82,24
+2009,Detroit Pistons,fe7165cfaf00c98200007188,82,39
+2009,Utah Jazz,4cd5ac5ffff742bd000111b8,82,48
+2010,Boston Celtics,8effe9bf9e5ce3150000a8de,82,50
+2010,Washington Wizards,8681b205012d30c200025a00,82,26
+2010,Los Angeles Clippers,a2cb647009c0858700028090,82,29
+2010,Houston Rockets,aeb72aaed511a3510001750b,82,42
+2010,Indiana Pacers,805810f8844314720000f5f4,82,32
+2010,Charlotte Bobcats,d44cf01af91638fd0001b6e5,82,44
+2010,Utah Jazz,656bdd52f57bfef40001aeec,82,53
+2010,Phoenix Suns,a549edef6faf942d0003affd,82,54
+2010,Detroit Pistons,007d01c940cb417000027001,82,27
+2010,New York Knicks,4e7a0c084900892700011856,82,29
+2010,New Jersey Nets,801400002210080000004ac0,82,12
+2010,Sacramento Kings,26a1e1e8160c080800004025,82,25
+2010,Philadelphia 76ers,6280049620a7c65900008188,82,27
+2010,New Orleans Hornets,e59cb89284d45b5700030488,82,37
+2010,Cleveland Cavaliers,f7cf77dc7e3ffed700002eff,82,61
+2010,San Antonio Spurs,7ddc7c65ef4d589d00019ed5,82,50
+2010,Denver Nuggets,139ef69ff3aadfed0001791b,82,53
+2010,Chicago Bulls,79908339037b1f3c0003adb0,82,41
+2010,Oklahoma City Thunder,f91ad5a3f73fe39a00024f65,82,50
+2010,Miami Heat,8ec9317770f826b20003bfe7,82,47
+2010,Dallas Mavericks,6be6df6effe51b4d0003e74b,82,55
+2010,Toronto Raptors,f2705199086ef99d0003071a,82,40
+2010,Orlando Magic,dd9fbeb7fb5dee300003f777,82,59
+2010,Milwaukee Bucks,c230877afbf5ba910002799d,82,46
+2010,Golden State Warriors,301098a4025401460002ad45,82,26
+2010,Portland Trail Blazers,f651d7e9eccb15a60001b7be,82,50
+2010,Memphis Grizzlies,ee5cae02b5504ef50000446b,82,40
+2010,Atlanta Hawks,15fa9fdb9ecb97760003cb5b,82,53
+2010,Minnesota Timberwolves,650900010207821000000400,82,15
+2010,Los Angeles Lakers,d7dffcfd1d7af5d30001497f,82,57
+2011,Miami Heat,dffe8e5e05dfe87f0003ddf7,82,58
+2011,Houston Rockets,bed6a1a0be9c672000029af9,82,43
+2011,Phoenix Suns,428ea3b22bd771f40003242c,82,40
+2011,Boston Celtics,97ffe77d9f72dbe700025a9a,82,56
+2011,Charlotte Bobcats,3094958803649d8f000303c3,82,34
+2011,Utah Jazz,baafebec441540e600032019,82,39
+2011,Portland Trail Blazers,5c781957f2fc9f1b0001dadc,82,48
+2011,Atlanta Hawks,696f8c3f162756fb00000f26,82,44
+2011,Sacramento Kings,5008040d02441a11000099e9,82,24
+2011,Detroit Pistons,9a109360911619c80002e118,82,30
+2011,Milwaukee Bucks,4c7483a4e4a21cc40003aa58,82,35
+2011,Chicago Bulls,f6fe55e6fbbcfdd90003fef7,82,62
+2011,Indiana Pacers,4514daa604cef40c0000dcd6,82,37
+2011,New York Knicks,31fef819757258170000fe04,82,42
+2011,Washington Wizards,220215241014026a00019d08,82,23
+2011,Memphis Grizzlies,63c2e0c6ade7dcce0000dee9,82,46
+2011,Oklahoma City Thunder,57d6bed3dc6bb4f30001f3ef,82,55
+2011,Los Angeles Clippers,dc24c010e08865dc000232a5,82,32
+2011,Orlando Magic,f087ef3d3db4ae9f000369f5,82,52
+2011,Denver Nuggets,e2a7f53577253d710001afcf,82,50
+2011,Los Angeles Lakers,8fb87cfffe3d35fd000307fd,82,57
+2011,Cleveland Cavaliers,0400a27112a0000000033142,82,19
+2011,Philadelphia 76ers,a5db105077b5dccc00008e59,82,41
+2011,Minnesota Timberwolves,c0481302280c408200000006,82,17
+2011,New Orleans Hornets,33124eff8c427fe7000075ad,82,46
+2011,Dallas Mavericks,1f7ff9ed5feffd030003c3e9,82,57
+2011,Golden State Warriors,b90104db4875c3cc00027303,82,36
+2011,San Antonio Spurs,effdbffdb76f77f90000f03b,82,61
+2011,Toronto Raptors,448679021244001400008819,82,22
+2011,New Jersey Nets,1a012283f031360400001021,82,24
+2012,Miami Heat,fddf71dfbe5b3ce700000000,66,46
+2012,Los Angeles Clippers,4db7abb9bedf8d2500000000,66,40
+2012,Chicago Bulls,df57befdae9bddfe00000003,66,50
+2012,Boston Celtics,04fbd0785bcfb35f00000003,66,39
+2012,Orlando Magic,7ae15f5e1983976b00000001,66,37
+2012,Milwaukee Bucks,431d6306c4f65fa200000000,66,31
+2012,Toronto Raptors,0896013118748a5500000002,66,23
+2012,Denver Nuggets,1827ecf3db5a557900000003,66,38
+2012,Detroit Pistons,cf010818923b05d100000002,66,25
+2012,Oklahoma City Thunder,edb7bf9f6d8fd56f00000001,66,47
+2012,Houston Rockets,a74dfd0a81eacd0700000002,66,34
+2012,New Orleans Hornets,380401035ea2510900000001,66,21
+2012,Philadelphia 76ers,19bd5dfae30aa39400000001,66,35
+2012,Los Angeles Lakers,ba745f5c5e7acf9d00000001,66,41
+2012,Memphis Grizzlies,f630fe34f5eec4be00000003,66,41
+2012,New Jersey Nets,804d48810b3a09aa00000000,66,22
+2012,Utah Jazz,12265df4e6a2fd3600000003,66,36
+2012,Minnesota Timberwolves,e1d67498800a44e600000000,66,26
+2012,Atlanta Hawks,263b7b9775d3d93a00000003,66,40
+2012,Sacramento Kings,02e0c491901438c300000002,66,22
+2012,Washington Wizards,190a2100f304122800000003,66,20
+2012,Cleveland Cavaliers,34a50a5a2250047000000000,66,21
+2012,New York Knicks,bf9103c9b6d77c0a00000003,66,36
+2012,Indiana Pacers,e0bd6ed77f7ad98700000001,66,42
+2012,San Antonio Spurs,ffe65cebff3ffbaa00000003,66,50
+2012,Dallas Mavericks,7e3b9f68ce5678a100000000,66,36
+2012,Phoenix Suns,85d460d455b99edd00000000,66,33
+2012,Portland Trail Blazers,a4ab51b704d5492200000000,66,28
+2012,Charlotte Bobcats,200010210000048800000000,66,7
+2012,Golden State Warriors,b1cd19068050287400000000,66,23
+2013,Washington Wizards,04025000d273c35700000b2d,82,29
+2013,Dallas Mavericks,811d151d7a3b4af00002d975,82,41
+2013,Boston Celtics,851ab2ec9f4bf81f000094c1,81,41
+2013,Sacramento Kings,b5071418940c21610000219a,82,28
+2013,Houston Rockets,cfb1b8a359ab74070000af3b,82,45
+2013,Memphis Grizzlies,d4f1bdfe7eff2b6300037796,82,56
+2013,San Antonio Spurs,f93efaefbafbffab000054de,82,58
+2013,Denver Nuggets,6baa3c78ff47fcfd0003be7f,82,57
+2013,Golden State Warriors,f5beed9530e079c400032edb,82,47
+2013,Los Angeles Lakers,2f84a768edd5dc300003ee8d,82,45
+2013,Indiana Pacers,dee6da45adf3e35e000027dc,81,49
+2013,Oklahoma City Thunder,b9ffeefa7dc7aafd0001eee7,82,60
+2013,Milwaukee Bucks,0d5e48eb1bc426eb00020943,82,38
+2013,Chicago Bulls,e9b768ab26525bba000326b9,82,45
+2013,Los Angeles Clippers,7fffc3f35ef461ee0003f8b5,82,56
+2013,Utah Jazz,1278dcd184736bdb0001b7c2,82,43
+2013,Miami Heat,b3f67ebdfffffaf40003fdbf,82,66
+2013,Portland Trail Blazers,b5f30b859680d60700000019,82,33
+2013,Detroit Pistons,b024d50008ac49970001e440,82,29
+2013,Toronto Raptors,ef810284a0be450c0003ec82,82,34
+2013,New Orleans Hornets,28009016891b096f00001270,82,27
+2013,Charlotte Bobcats,40000b71801404410003844c,82,21
+2013,Cleveland Cavaliers,3020840993639d1200000c00,82,24
+2013,Philadelphia 76ers,9414e739410174a00002c5d3,82,34
+2013,Atlanta Hawks,2f2ddfa688f697240000c6ab,82,44
+2013,Phoenix Suns,03c058b24e21264100014008,82,25
+2013,Minnesota Timberwolves,549ed05d9205081000028b54,82,31
+2013,New York Knicks,957be9bf0b70beb10002dfff,82,54
+2013,Orlando Magic,01e98c839104002800004100,82,20
+2013,Brooklyn Nets,b2307cf9727953bf00037a6d,82,49
+2014,Orlando Magic,3120611c291c890000003180,82,23
+2014,Los Angeles Clippers,9f69ebcefe72f5f60001af6f,82,57
+2014,Chicago Bulls,d61121f257be95d700017f6b,82,48
+2014,Brooklyn Nets,90b9208a77ab63ef00009dcf,82,44
+2014,Atlanta Hawks,b7591b6ae04035980002ed03,82,38
+2014,Washington Wizards,8dc3761837e26ab90003cd93,82,44
+2014,Los Angeles Lakers,0345b9298c43018100030130,82,27
+2014,Charlotte Bobcats,1719299ab1eacd440003bea7,82,43
+2014,Indiana Pacers,be6dfdff87d5eafb00034897,82,56
+2014,Milwaukee Bucks,4414800a4490810000004080,82,15
+2014,Miami Heat,6fd9ffb991feeec700004bd5,82,54
+2014,Portland Trail Blazers,9bef7ff617c54cf90003ef1a,82,54
+2014,Denver Nuggets,8059fce89810662f0000e42d,82,36
+2014,Memphis Grizzlies,56094f2af6bd3f7d0003ea76,82,50
+2014,Boston Celtics,233ac0f0641708800000c010,82,25
+2014,Oklahoma City Thunder,3bfeff3d9c76ffd3000273bd,82,59
+2014,New York Knicks,45530051e0223c1f0003ce9f,82,37
+2014,Golden State Warriors,fa56479df5ead25f00035ab9,82,51
+2014,Toronto Raptors,7db41945dddcbb2e0001bdd4,82,48
+2014,Cleveland Cavaliers,813b04490c7e04ac00024dc3,82,33
+2014,Dallas Mavericks,e99c9ecdc7afa57400017aae,82,49
+2014,San Antonio Spurs,eb7abffbff75c57e0000d7ff,82,62
+2014,Detroit Pistons,268f3285884730b000003220,82,29
+2014,New Orleans Pelicans,5619ce347009ae80000300fa,82,34
+2014,Utah Jazz,a9868100418e195600020820,82,25
+2014,Philadelphia 76ers,e40421270000222100030900,82,19
+2014,Sacramento Kings,2a26064118d1809700010629,82,28
+2014,Houston Rockets,eab3ee977dbfceec00019c7c,82,54
+2014,Minnesota Timberwolves,b2b2256757709b8a00005663,82,40
+2014,Phoenix Suns,b77cd86b163a7da2000239fb,82,48
+2015,Houston Rockets,4cef73bf67cb7abd00039dee,82,56
+2015,Orlando Magic,42642b30c390030300003840,82,25
+2015,Dallas Mavericks,ceaf9fae275b874f0002e49d,82,50
+2015,Brooklyn Nets,ee31a8368331c280000257ed,82,38
+2015,Milwaukee Bucks,a591cecaa13df4b50001ccc0,82,41
+2015,Detroit Pistons,f0c0011800d585b7000292f4,82,32
+2015,Philadelphia 76ers,060a0000420a604d00000099,82,18
+2015,Minnesota Timberwolves,0010220a10a7105000000028,82,16
+2015,Washington Wizards,39fbcddea818336e0000bd0f,82,46
+2015,Chicago Bulls,7f75a5bd35bc59270003cbb2,82,50
+2015,Los Angeles Lakers,88e30c2041c0401200004128,82,21
+2015,Oklahoma City Thunder,65fd814459fd93d30003427b,82,45
+2015,Golden State Warriors,f37fff9f7daf73ef0003cfff,82,67
+2015,Atlanta Hawks,efbfecf25f96ffff00007ac7,82,60
+2015,New York Knicks,010024068300ae0000019004,82,17
+2015,Utah Jazz,b6200a54f76c4c8a0001b70b,82,38
+2015,Cleveland Cavaliers,174ff0f267b7ff8100033def,82,53
+2015,Memphis Grizzlies,e1f9f7bf5a6dfef200026c76,82,55
+2015,Los Angeles Clippers,a59ff6ab9cf0bf5b0003fbf9,82,56
+2015,San Antonio Spurs,90adfee57e1b77b60001ffdd,82,55
+2015,Portland Trail Blazers,ef9f7fd9ef9b123d00002de0,82,51
+2015,Indiana Pacers,5900ad81feeea02b0001f940,82,38
+2015,Boston Celtics,10e38231ece5c5890003f6a3,82,40
+2015,Denver Nuggets,2621be819810203e0000a147,82,30
+2015,Toronto Raptors,6fd67efb083cfd280002e72d,82,49
+2015,Miami Heat,2950b467acd44cb40003214e,82,37
+2015,Phoenix Suns,fc0cbccb6608cf3c0000107a,82,39
+2015,Sacramento Kings,24143a3e4252201500031078,82,29
+2015,Charlotte Hornets,1e1801319f41d77c00000a88,82,33
+2015,New Orleans Pelicans,55ac8ad9d7c2dea900035785,82,45
+2016,Detroit Pistons,1d9e4c370005329d,54,27
+2016,Cleveland Cavaliers,f3f1b9fe000e7daf,52,38
+2016,New Orleans Pelicans,2d287040000c3761,53,20
+2016,Philadelphia 76ers,8004000000042a12,53,8
+2016,Chicago Bulls,f478d7ab000094a3,52,27
+2016,Utah Jazz,d30a66360007f498,52,26
+2016,Denver Nuggets,11d805c9002d4968,54,22
+2016,Minnesota Timberwolves,8610e433002c1200,54,17
+2016,Charlotte Hornets,313d7ad8001d9d20,53,27
+2016,New York Knicks,0f0c3cc500010cdd,55,23
+2016,San Antonio Spurs,bfbdf7ee001fafff,53,45
+2016,Washington Wizards,4f25438b0002913c,51,23
+2016,Dallas Mavericks,f5351fa500234d2c,55,29
+2016,Los Angeles Clippers,e3bba24f000ef57f,53,35
+2016,Indiana Pacers,31d1fbb8000d622d,53,28
+2016,Memphis Grizzlies,3256de160013ef6b,53,31
+2016,Atlanta Hawks,fc6aa2fe004e2732,55,31
+2016,Toronto Raptors,69e5e31f00077ff3,52,35
+2016,Miami Heat,9ae35dd50006f08b,53,29
+2016,Golden State Warriors,beffffff000ffebf,52,48
+2016,Oklahoma City Thunder,ddf9e9c70037dfdb,54,40
+2016,Portland Trail Blazers,82996039003beb8b,54,27
+2016,Los Angeles Lakers,09020210000c0087,55,11
+2016,Brooklyn Nets,4833248000141041,54,14
+2016,Sacramento Kings,15c4a702001087cb,53,22
+2016,Phoenix Suns,09610b9600001020,54,14
+2016,Orlando Magic,db97cb6800062010,52,23
+2016,Houston Rockets,5cdd8878000c72f8,55,27
+2016,Milwaukee Bucks,3132227800304ea6,54,22
+2016,Boston Celtics,78b6cbb1005ef9c2,55,32
